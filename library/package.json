@@ -1,0 +1,10 @@
+{
+  "name": "libraryServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yaman Shrestha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
