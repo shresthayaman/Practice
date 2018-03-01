@@ -23,12 +23,11 @@ app.get("/annakarenina", (req, res) => {
   res.sendfile("./annakarenina.txt");
 });
 
-// if you have any HTML files, you can send those over too
+
 app.get("/candide", (req, res) => {
   res.sendfile("./candide.txt");
 });
 
-// if you have any HTML files, you can send those over too
 app.get("/janeeyre", (req, res) => {
     res.sendfile("./janeeyre.txt");
 });
